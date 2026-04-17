@@ -8,7 +8,7 @@ Progress tracker for learning SQL from beginner to advanced.
  
 ## Phase 1 — SQL Foundations
  
-- [ ] **What is a database & SQL?** — RDBMS concepts, tables, rows, columns, relations
+- [X] **What is a database & SQL?** — RDBMS concepts, tables, rows, columns, relations
 - [ ] **Basic SELECT** — SELECT *, SELECT columns, FROM, alias AS
 - [ ] **WHERE & filtering data** — =, !=, >, <, BETWEEN, IN, IS NULL
 - [ ] **ORDER BY & LIMIT** — Sorting ASC/DESC, limiting results

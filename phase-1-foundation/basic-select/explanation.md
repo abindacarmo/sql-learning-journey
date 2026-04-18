@@ -107,3 +107,107 @@ SELECT
 FROM raw.employees
 ```
 
+> use RDBMS postgresql
+> and here its explanation following:
+
+1. for running file ```.sql```
+
+- mysql
+```bash
+mysql -u root -p nama_database < file.sql
+```
+- postgresql
+```bash
+psql -U postgres -d nama_database -f file.sql
+```
+
+- husi psql nia laran
+```bash
+\i /path/file.sql
+```
+
+2. MySQL LAMPP (cause we use linux)
+ 
+ - start 
+ ```bash
+sudo /opt/lampp/lampp start
+```
+
+- login
+ ```bash
+/opt/lampp/bin/mysql -u root -p
+```
+
+- Socket error fix:
+ ```bash
+mysql -u root -p --socket=/opt/lampp/var/mysql/mysql.sock
+```
+
+3. PostgreSQL basic
+
+- in
+ ```bash
+sudo -u postgres psql
+```
+
+- chose DB
+ ```bash
+\c nama_database
+```
+
+- list database
+ ```bash
+\l
+```
+
+- list table
+ ```bash
+\dt
+```
+
+4. create table
+
+```sql
+CREATE TABLE employees (
+    employee_id INT PRIMARY KEY,
+    name VARCHAR(100),
+    department VARCHAR(50),
+    salary INT,
+    hire_date DATE
+);
+```
+
+
+4. insert data into table
+
+```sql
+INSERT INTO employees (employee_id, name, department, salary, hire_date)
+VALUES
+(11, 'Binda', 'Engineering', 80000, '2020-09-29'),
+(12, 'Dito', 'Marketing', 5000, '2022-07-15');
+```
+6. Select data
+
+```sql
+SELECT * FROM employees;
+>
+SELECT name, salary FROM employees;
+>
+SELECT * FROM employees LIMIT 10;
+```
+
+7. comment in file .sql we use
+```sql
+-- single line
+>
+/* multi line */
+```
+
+### 🔹 MySQL vs PostgreSQL Command Comparison
+
+| Feature          | MySQL Command      | PostgreSQL Command |
+|------------------|-------------------|--------------------|
+| List databases   | SHOW DATABASES    | \l                 |
+| List tables      | SHOW TABLES       | \dt                |
+| Select database  | USE db            | \c db              |
+| Auto increment   | AUTO_INCREMENT    | SERIAL             |

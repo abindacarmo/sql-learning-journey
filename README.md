@@ -12,7 +12,7 @@ Progress tracker for learning SQL from beginner to advanced.
 - [X] **Basic SELECT** — SELECT *, SELECT columns, FROM, alias AS
 - [X] **WHERE & filtering data** — =, !=, >, <, BETWEEN, IN, IS NULL
 - [X] **ORDER BY & LIMIT** — Sorting ASC/DESC, limiting results
-- [ ] **SQL data types** — INT, VARCHAR, TEXT, DATE, BOOLEAN, FLOAT
+- [X] **SQL data types** — INT, VARCHAR, TEXT, DATE, BOOLEAN, FLOAT
 - [ ] **INSERT, UPDATE, DELETE** — Basic data manipulation (DML)
 - [ ] **CREATE & DROP TABLE** — Creating and deleting tables (DDL basics)
  

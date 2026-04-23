@@ -2,7 +2,7 @@
  
 Progress tracker for learning SQL from beginner to advanced.
  
-> Progress: **0/31 topics (0%)**
+> Progress: **6/31 topics (0%)**
  
 ---
  
@@ -13,7 +13,7 @@ Progress tracker for learning SQL from beginner to advanced.
 - [X] **WHERE & filtering data** — =, !=, >, <, BETWEEN, IN, IS NULL
 - [X] **ORDER BY & LIMIT** — Sorting ASC/DESC, limiting results
 - [X] **SQL data types** — INT, VARCHAR, TEXT, DATE, BOOLEAN, FLOAT
-- [ ] **INSERT, UPDATE, DELETE** — Basic data manipulation (DML)
+- [X] **INSERT, UPDATE, DELETE** — Basic data manipulation (DML)
 - [ ] **CREATE & DROP TABLE** — Creating and deleting tables (DDL basics)
  
 ## Phase 2 — Intermediate Queries

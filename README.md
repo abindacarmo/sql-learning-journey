@@ -14,7 +14,7 @@ Progress tracker for learning SQL from beginner to advanced.
 - [X] **ORDER BY & LIMIT** — Sorting ASC/DESC, limiting results
 - [X] **SQL data types** — INT, VARCHAR, TEXT, DATE, BOOLEAN, FLOAT
 - [X] **INSERT, UPDATE, DELETE** — Basic data manipulation (DML)
-- [ ] **CREATE & DROP TABLE** — Creating and deleting tables (DDL basics)
+- [X] **CREATE & DROP TABLE** — Creating and deleting tables (DDL basics)
  
 ## Phase 2 — Intermediate Queries
  

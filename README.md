@@ -18,7 +18,7 @@ Progress tracker for learning SQL from beginner to advanced.
  
 ## Phase 2 — Intermediate Queries
  
-- [ ] **LIKE & wildcards (%_)** — Pattern-based text search
+- [X] **LIKE & wildcards (%_)** — Pattern-based text search
 - [ ] **Aggregate functions** — COUNT, SUM, AVG, MIN, MAX
 - [ ] **GROUP BY** — Grouping data for aggregation
 - [ ] **HAVING** — Filtering GROUP BY results

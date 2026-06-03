@@ -2,7 +2,7 @@
  
 Progress tracker for learning SQL from beginner to advanced.
  
-> Progress: **6/31 topics (0%)**
+> Progress: **8/31 topics (0%)**
  
 ---
  

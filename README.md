@@ -2,7 +2,7 @@
  
 Progress tracker for learning SQL from beginner to advanced.
  
-> Progress: **6/31 topics (0%)**
+> Progress: **8/31 topics (0%)**
  
 ---
  
@@ -19,7 +19,7 @@ Progress tracker for learning SQL from beginner to advanced.
 ## Phase 2 — Intermediate Queries
  
 - [X] **LIKE & wildcards (%_)** — Pattern-based text search
-- [ ] **Aggregate functions** — COUNT, SUM, AVG, MIN, MAX
+- [X] **Aggregate functions** — COUNT, SUM, AVG, MIN, MAX
 - [ ] **GROUP BY** — Grouping data for aggregation
 - [ ] **HAVING** — Filtering GROUP BY results
 - [ ] **INNER JOIN** — Combine tables — matching rows only
@@ -53,3 +53,5 @@ Progress tracker for learning SQL from beginner to advanced.
  
 *Tools: MySQL / PostgreSQL / SQLite*
  
+
+

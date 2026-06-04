@@ -152,7 +152,7 @@ sudo -u postgres psql
 
 - chose DB
  ```bash
-\c nama_database
+\c database_name
 ```
 
 - list database

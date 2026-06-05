@@ -2,7 +2,7 @@
  
 Progress tracker for learning SQL from beginner to advanced.
  
-> Progress: **9/31 topics (0%)**
+> Progress: **10/31 topics (0%)**
  
 ---
  
@@ -20,7 +20,7 @@ Progress tracker for learning SQL from beginner to advanced.
  
 - [X] **LIKE & wildcards (%_)** — Pattern-based text search
 - [X] **Aggregate functions** — COUNT, SUM, AVG, MIN, MAX
-- [ ] **GROUP BY** — Grouping data for aggregation
+- [X] **GROUP BY** — Grouping data for aggregation
 - [ ] **HAVING** — Filtering GROUP BY results
 - [ ] **INNER JOIN** — Combine tables — matching rows only
 - [ ] **LEFT JOIN & RIGHT JOIN** — Combine tables including non-matching rows

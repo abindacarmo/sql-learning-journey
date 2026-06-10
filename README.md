@@ -24,7 +24,7 @@ Progress tracker for learning SQL from beginner to advanced.
 - [X] **HAVING** — Filtering GROUP BY results
 - [X] **INNER JOIN** — Combine tables — matching rows only
 - [X] **LEFT JOIN & RIGHT JOIN** — Combine tables including non-matching rows
-- [ ] **FULL OUTER JOIN** — All rows from both tables
+- [X] **FULL OUTER JOIN** — All rows from both tables
 - [ ] **Basic subqueries** — Query inside a query (WHERE / FROM)
 - [ ] **UNION & UNION ALL** — Merging results from two queries
  

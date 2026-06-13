@@ -2,7 +2,7 @@
  
 Progress tracker for learning SQL from beginner to advanced.
  
-> Progress: **14/31 topics (0%)**
+> Progress: **16/31 topics (0%)**
  
 ---
  
@@ -26,7 +26,7 @@ Progress tracker for learning SQL from beginner to advanced.
 - [X] **LEFT JOIN & RIGHT JOIN** — Combine tables including non-matching rows
 - [X] **FULL OUTER JOIN** — All rows from both tables
 - [X] **Basic subqueries** — Query inside a query (WHERE / FROM)
-- [ ] **UNION & UNION ALL** — Merging results from two queries
+- [X] **UNION & UNION ALL** — Merging results from two queries
  
 ## Phase 3 — Database Design
  

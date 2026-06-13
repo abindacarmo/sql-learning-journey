@@ -25,7 +25,7 @@ Progress tracker for learning SQL from beginner to advanced.
 - [X] **INNER JOIN** — Combine tables — matching rows only
 - [X] **LEFT JOIN & RIGHT JOIN** — Combine tables including non-matching rows
 - [X] **FULL OUTER JOIN** — All rows from both tables
-- [ ] **Basic subqueries** — Query inside a query (WHERE / FROM)
+- [X] **Basic subqueries** — Query inside a query (WHERE / FROM)
 - [ ] **UNION & UNION ALL** — Merging results from two queries
  
 ## Phase 3 — Database Design

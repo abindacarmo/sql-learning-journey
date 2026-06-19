@@ -222,7 +222,7 @@ LEFT JOIN orders o ON c.id = o.customer_id
 
 UNION
 
--- Part 2: only right rows with no match on the left
+-- Part 2: Only right rows with no match on the left
 SELECT c.name, o.product
 FROM customers c
 RIGHT JOIN orders o ON c.id = o.customer_id

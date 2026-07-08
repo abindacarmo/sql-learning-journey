@@ -12,7 +12,7 @@ Run these in your regular terminal or shell, not inside the psql prompt.
 
 | Command | Description |
 |----------|-------------|
-| `psql -U postgres` | Connect as user postgres |
+| `sudo -u postgres psql` | Connect as user postgres |
 | `psql -U username -d dbname` | Connect to a specific database |
 | `psql -U postgres -h localhost -p 5432 -d dbname` | Connect with full host + port + database |
 | `psql -U postgres -W` | Force password prompt |

@@ -30,7 +30,7 @@ Progress tracker for learning SQL from beginner to advanced.
  
 ## Phase 3 — Database Design
  
-- [ ] **Primary Key & Foreign Key** — Unique identity and table relationships
+- [X] **Primary Key & Foreign Key** — Unique identity and table relationships
 - [ ] **Normalization 1NF** — No repeating columns, atomic values
 - [ ] **Normalization 2NF** — No partial dependency
 - [ ] **Normalization 3NF** — No transitive dependency

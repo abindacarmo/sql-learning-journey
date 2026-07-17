@@ -33,7 +33,7 @@ Progress tracker for learning SQL from beginner to advanced.
 - [X] **Primary Key & Foreign Key** — Unique identity and table relationships
 - [X] **Normalization 1NF** — No repeating columns, atomic values
 - [X] **Normalization 2NF** — No partial dependency
-- [ ] **Normalization 3NF** — No transitive dependency
+- [X] **Normalization 3NF** — No transitive dependency
 - [ ] **ER Diagram** — Visually mapping entity relationships
 - [ ] **Constraints** — NOT NULL, UNIQUE, CHECK, DEFAULT
 - [ ] **Indexes** — Speeding up queries with indexing

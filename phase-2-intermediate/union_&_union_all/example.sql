@@ -2,7 +2,7 @@
 
 -- number 1
  select name, city from customers union select p.product_name, o.status from orders o, products p where o.product_id=p.product_id;
- -- it means Get the product name and order status, by joining the orders and products tables where the product ID matches.  
+ -- it means Get the product name and order status, by joining the orders and products tables where the Product ID matches.  
 
 
  -- number 2

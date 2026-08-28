@@ -7,4 +7,4 @@
 
  -- number 2
  select name, city from customers union all select p.product_name, o.status from orders o, products p where o.product_id=p.product_id;
- -- it means Combine both results and keep everything, even if some rows look exactly the same.
+ -- it means Combine both results and keep everything, even if some rows look exactly the same include the null one.

@@ -50,7 +50,7 @@ UNION
 SELECT product, status FROM orders;
 ```
 
-> The column **names** in the final result are taken from the **first query**.
+> The column **names** in the final result are taken from the **First Query**.
 
 ---
 

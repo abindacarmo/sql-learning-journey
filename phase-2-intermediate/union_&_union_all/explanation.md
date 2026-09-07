@@ -2,7 +2,6 @@
 
 > **Topic:** Merging Results From Two Queries
 > **Level:** Intermediate
-> **Language:** English
 > **Prerequisite:** SELECT, WHERE, Aggregate Functions, JOIN
 
 ---

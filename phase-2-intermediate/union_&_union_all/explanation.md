@@ -8,7 +8,7 @@
 
 ## What is UNION?
 
-`UNION` combines the results of two or more queries into a single list of rows.
+`UNION` Combines the results of two or more queries into a single list of rows.
 
 The key difference from JOIN:
 - **JOIN** combines tables **horizontally** — adds more columns

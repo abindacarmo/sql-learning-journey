@@ -2,14 +2,13 @@
 
 > **Topic:** Merging Results From Two Queries
 > **Level:** Intermediate
-> **Language:** English
 > **Prerequisite:** SELECT, WHERE, Aggregate Functions, JOIN
 
 ---
 
 ## What is UNION?
 
-`UNION` combines the results of two or more queries into a single list of rows.
+`UNION` Combines the results of two or more queries into a single list of rows.
 
 The key difference from JOIN:
 - **JOIN** combines tables **horizontally** — adds more columns
@@ -222,7 +221,7 @@ LEFT JOIN orders o ON c.id = o.customer_id
 
 UNION
 
--- Part 2: only right rows with no match on the left
+-- Part 2: Only right rows with no match on the left
 SELECT c.name, o.product
 FROM customers c
 RIGHT JOIN orders o ON c.id = o.customer_id
